@@ -1,0 +1,1041 @@
+[
+  {
+    "id": "ncuX8p2xLIUC",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ncuX8p2xLIUC",
+    "volumeInfo": {
+      "title": "To Kill a Mockingbird",
+      "authors": ["Harper Lee"],
+      "publisher": "Harper Perennial Modern Classics",
+      "publishedDate": "2006-05-23",
+      "description": "Harper Lee's Pulitzer Prize-winning masterwork of honor and injustice in the deep South -- and the heroism of one man in the face of blind and violent hatred One of the best-loved stories of all time, To Kill a Mockingbird has been translated into more than forty languages, sold more than thirty million copies worldwide, served as the basis of an enormously popular motion picture, and was voted one of the best novels of the twentieth century by librarians across the country. A gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent prejudice, it views a world of great beauty and savage inequities through the eyes of a young girl, as her father -- a crusading local lawyer -- risks everything to defend a black man unjustly accused of a terrible crime.",
+      "industryIdentifiers": [
+        { "type": "ISBN_10", "identifier": "0061120081" },
+        { "type": "ISBN_13", "identifier": "9780061120084" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 346,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "averageRating": 4.5,
+      "ratingsCount": 9,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.4.4.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=ncuX8p2xLIUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=ncuX8p2xLIUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=ncuX8p2xLIUC&dq=isbn:9780061120084&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=ncuX8p2xLIUC&dq=isbn:9780061120084&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/To_Kill_a_Mockingbird.html?hl=&id=ncuX8p2xLIUC"
+    }
+  },
+  {
+    "id": "fo4rzdaHDAwC",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/fo4rzdaHDAwC",
+    "volumeInfo": {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "authors": ["J. K. Rowling"],
+      "publisher": "Arthur A. Levine Books",
+      "publishedDate": "1998",
+      "description": "Rescued from the outrageous neglect of his aunt and uncle, a young boy with a great destiny proves his worth while attending Hogwarts School for Witchcraft and Wizardry.",
+      "industryIdentifiers": [
+        { "type": "ISBN_10", "identifier": "059035342X" },
+        { "type": "ISBN_13", "identifier": "9780590353427" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 324,
+      "printType": "BOOK",
+      "categories": ["Juvenile Fiction"],
+      "averageRating": 4,
+      "ratingsCount": 12,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.8.4.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=fo4rzdaHDAwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=fo4rzdaHDAwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=fo4rzdaHDAwC&dq=isbn:9780590353427&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=fo4rzdaHDAwC&dq=isbn:9780590353427&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Sorcerer_s_Stone.html?hl=&id=fo4rzdaHDAwC"
+    }
+  },
+  {
+    "id": "1iNbAAAAMAAJ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/1iNbAAAAMAAJ",
+    "volumeInfo": {
+      "title": "Nineteen Eighty-four",
+      "subtitle": "A Novel",
+      "authors": ["George Orwell"],
+      "publishedDate": "1949",
+      "description": "Eternal warfare is the price of bleak prosperity in this satire of totalitarian barbarism.",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "UOM:39015020733708" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 326,
+      "printType": "BOOK",
+      "categories": ["London (England)"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.6.2.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Dd9N0AEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Dd9N0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=1iNbAAAAMAAJ&dq=isbn:9780451524935&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=1iNbAAAAMAAJ&dq=isbn:9780451524935&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Nineteen_Eighty_four.html?hl=&id=1iNbAAAAMAAJ"
+    }
+  },
+  {
+    "id": "viRcjwEACAAJ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/viRcjwEACAAJ",
+    "volumeInfo": {
+      "title": "Pride and Prejudice",
+      "subtitle": "Prequel to \"Pemberley\".",
+      "publishedDate": "1995",
+      "industryIdentifiers": [
+        { "type": "ISBN_10", "identifier": "0140430725" },
+        { "type": "ISBN_13", "identifier": "9780140430721" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 378,
+      "printType": "BOOK",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=viRcjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=viRcjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=viRcjwEACAAJ&dq=isbn:9780140430721&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=viRcjwEACAAJ&dq=isbn:9780140430721&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Pride_and_Prejudice.html?hl=&id=viRcjwEACAAJ"
+    }
+  },
+  {
+    "id": "ibL1ukZukRYC",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ibL1ukZukRYC",
+    "volumeInfo": {
+      "title": "The Diary of a Young Girl",
+      "subtitle": "With an Introduction by Eleanor Roosevelt",
+      "authors": ["Anne Frank"],
+      "publishedDate": "1995",
+      "industryIdentifiers": [
+        { "type": "ISBN_10", "identifier": "0553296981" },
+        { "type": "ISBN_13", "identifier": "9780553296983" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 306,
+      "printType": "BOOK",
+      "categories": ["Amsterdam (Netherlands)"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.8.1.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=ibL1ukZukRYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=ibL1ukZukRYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=ibL1ukZukRYC&dq=isbn:9780553296983&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=ibL1ukZukRYC&dq=isbn:9780553296983&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Diary_of_a_Young_Girl.html?hl=&id=ibL1ukZukRYC"
+    }
+  },
+  {
+    "id": "Q8eNEAAAQBAJ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Q8eNEAAAQBAJ",
+    "volumeInfo": {
+      "title": "Animal Farm",
+      "subtitle": "75th Anniversary Edition",
+      "authors": ["George Orwell"],
+      "publisher": "National Geographic Books",
+      "publishedDate": "2004-04-06",
+      "description": "75th Anniversary Edition\u2014Includes a New Introduction by T\u00e9a Obreht George Orwell's timeless and timely allegorical novel\u2014a scathing satire on a downtrodden society\u2019s blind march towards totalitarianism. \u201cAll animals are equal, but some animals are more equal than others.\u201d A farm is taken over by its overworked, mistreated animals. With flaming idealism and stirring slogans, they set out to create a paradise of progress, justice, and equality. Thus the stage is set for one of the most telling satiric fables ever penned\u2014a razor-edged fairy tale for grown-ups that records the evolution from revolution against tyranny to a totalitarianism just as terrible. When Animal Farm was first published, Stalinist Russia was seen as its target. Today it is devastatingly clear that wherever and whenever freedom is attacked, under whatever banner, the cutting clarity and savage comedy of George Orwell\u2019s masterpiece have a meaning and message still ferociously fresh.",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9780451526342" },
+        { "type": "ISBN_10", "identifier": "0451526341" }
+      ],
+      "readingModes": { "text": true, "image": false },
+      "pageCount": 0,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=Q8eNEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Q8eNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=Q8eNEAAAQBAJ&dq=isbn:9780451526342&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=Q8eNEAAAQBAJ&dq=isbn:9780451526342&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Animal_Farm.html?hl=&id=Q8eNEAAAQBAJ"
+    }
+  },
+  {
+    "id": "hFfhrCWiLSMC",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/hFfhrCWiLSMC",
+    "volumeInfo": {
+      "title": "The Hobbit",
+      "subtitle": "The Enchanting Prelude to The Lord of the Rings",
+      "authors": ["J.R.R. Tolkien"],
+      "publisher": "Del Rey",
+      "publishedDate": "1986-07-12",
+      "description": "The stirring adventure that begins The Lord of the Rings, the greatest fantasy epic of all time When Thorin Oakenshield and his band of dwarves embark upon a dangerous quest to reclaim the hoard of gold stolen from them by the evil dragon Smaug, Gandalf the wizard suggests an unlikely accomplice: Bilbo Baggins, an unassuming Hobbit dwelling in peaceful Hobbiton. Along the way, the company faces trolls, goblins, giant spiders, and worse. But as they journey from the wonders of Rivendell to the terrors of Mirkwood and beyond, Bilbo will find that there is more to him than anyone\u2014himself included\u2014ever dreamed. Unexpected qualities of courage and cunning, and a love of adventure, propel Bilbo toward his great destiny . . . a destiny that waits in the dark caverns beneath the Misty Mountains, where a twisted creature known as Gollum jealously guards a precious magic ring.",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9780345339683" },
+        { "type": "ISBN_10", "identifier": "0345339681" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 322,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "averageRating": 4.5,
+      "ratingsCount": 80,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.3.2.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=hFfhrCWiLSMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=hFfhrCWiLSMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=hFfhrCWiLSMC&printsec=frontcover&dq=isbn:9780345339683&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=hFfhrCWiLSMC&dq=isbn:9780345339683&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Hobbit.html?hl=&id=hFfhrCWiLSMC"
+    }
+  },
+  {
+    "id": "vlr0uqedlWcC",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/vlr0uqedlWcC",
+    "volumeInfo": {
+      "title": "The Little Prince",
+      "publisher": "Houghton Mifflin Harcourt",
+      "publishedDate": "2000",
+      "description": "An aviator whose plane is forced down in the Sahara Desert encounters a little prince from a small planet who relates his adventures in seeking the secret of what is important in life. Howard's new translation of this beloved classic beautifully reflects Saint-Exupery's unique, gifted style. Color and b&w illustrations.",
+      "industryIdentifiers": [
+        { "type": "ISBN_10", "identifier": "0156012197" },
+        { "type": "ISBN_13", "identifier": "9780156012195" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 100,
+      "printType": "BOOK",
+      "categories": ["Juvenile Fiction"],
+      "averageRating": 4,
+      "ratingsCount": 24,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.3.4.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=vlr0uqedlWcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=vlr0uqedlWcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=vlr0uqedlWcC&printsec=frontcover&dq=isbn:9780156012195&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=vlr0uqedlWcC&dq=isbn:9780156012195&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Little_Prince.html?hl=&id=vlr0uqedlWcC"
+    }
+  },
+  {
+    "id": "fIlQDwAAQBAJ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/fIlQDwAAQBAJ",
+    "volumeInfo": {
+      "title": "The Great Gatsby",
+      "authors": ["F. Scott Fitzgerald"],
+      "publisher": "Simon and Schuster",
+      "publishedDate": "2004-09-30",
+      "description": "A young man newly rich tries to recapture the past and win back his former love, despite the fact that she has married.",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9780743273565" },
+        { "type": "ISBN_10", "identifier": "0743273567" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 208,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.2.1.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=fIlQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=fIlQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=fIlQDwAAQBAJ&printsec=frontcover&dq=isbn:9780743273565&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=fIlQDwAAQBAJ&dq=isbn:9780743273565&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Great_Gatsby.html?hl=&id=fIlQDwAAQBAJ"
+    }
+  },
+  {
+    "id": "ZotvleqZomIC",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ZotvleqZomIC",
+    "volumeInfo": {
+      "title": "The Catcher in the Rye",
+      "authors": ["J.D. Salinger"],
+      "publisher": "Little, Brown",
+      "publishedDate": "1991-05-01",
+      "description": "The \"brilliant, funny, meaningful novel\" (The New Yorker) that established J. D. Salinger as a leading voice in American literature--and that has instilled in millions of readers around the world a lifelong love of books. \"If you really want to hear about it, the first thing you'll probably want to know is where I was born, and what my lousy childhood was like, and how my parents were occupied and all before they had me, and all that David Copperfield kind of crap, but I don't feel like going into it, if you want to know the truth.\" The hero-narrator of The Catcher in the Rye is an ancient child of sixteen, a native New Yorker named Holden Caufield. Through circumstances that tend to preclude adult, secondhand description, he leaves his prep school in Pennsylvania and goes underground in New York City for three days.",
+      "industryIdentifiers": [
+        { "type": "ISBN_10", "identifier": "0316769487" },
+        { "type": "ISBN_13", "identifier": "9780316769488" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 228,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "averageRating": 4.5,
+      "ratingsCount": 2,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.11.6.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=ZotvleqZomIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=ZotvleqZomIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=ZotvleqZomIC&dq=isbn:9780316769488&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=ZotvleqZomIC&dq=isbn:9780316769488&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Catcher_in_the_Rye.html?hl=&id=ZotvleqZomIC"
+    }
+  },
+  {
+    "id": "KF3ZwAEACAAJ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/KF3ZwAEACAAJ",
+    "volumeInfo": {
+      "title": "The Lord of the Rings: The two towers",
+      "authors": ["John Ronald Reuel Tolkien"],
+      "publishedDate": "1983",
+      "industryIdentifiers": [
+        { "type": "ISBN_10", "identifier": "0395489318" },
+        { "type": "ISBN_13", "identifier": "9780395489314" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "printType": "BOOK",
+      "categories": ["Fantasy fiction, English"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jiuHtQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jiuHtQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=KF3ZwAEACAAJ&dq=isbn:9780395489314&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=KF3ZwAEACAAJ&dq=isbn:9780395489314&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Lord_of_the_Rings_The_two_towers.html?hl=&id=KF3ZwAEACAAJ"
+    }
+  },
+  {
+    "id": "gfdvDwAAQBAJ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/gfdvDwAAQBAJ",
+    "volumeInfo": {
+      "title": "Jane Eyre",
+      "authors": ["Charlotte Bronte"],
+      "publisher": "Bantam Classics",
+      "publishedDate": "1983-09-01",
+      "description": "Introduction by Joyce Carol Oates \u2022 Nominated as one of America\u2019s best-loved novels by PBS\u2019s The Great American Read Initially published under the pseudonym Currer Bell in 1847, Charlotte Bront\u00eb\u2019s Jane Eyreerupted onto the English literary scene, immediately winning the devotion of many of the world\u2019s most renowned writers, including William Makepeace Thackeray, who declared it a work \u201cof great genius.\u201d Widely regarded as a revolutionary novel, Bront\u00eb\u2019s masterpiece introduced the world to a radical new type of heroine, one whose defiant virtue and moral courage departed sharply from the more acquiescent and malleable female characters of the day. Passionate, dramatic, and surprisingly modern, Jane Eyre endures as one of the world\u2019s most beloved novels.",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9780553211405" },
+        { "type": "ISBN_10", "identifier": "0553211404" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 530,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.1.0.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=gfdvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=gfdvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=gfdvDwAAQBAJ&printsec=frontcover&dq=isbn:9780553211405&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=gfdvDwAAQBAJ&dq=isbn:9780553211405&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Jane_Eyre.html?hl=&id=gfdvDwAAQBAJ"
+    }
+  },
+  {
+    "id": "c6S1yQEACAAJ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/c6S1yQEACAAJ",
+    "volumeInfo": {
+      "title": "Romeo and Juliet",
+      "authors": ["William Shakespeare"],
+      "publisher": "Simon & Schuster",
+      "publishedDate": "2004-01-01",
+      "description": "In Romeo and Juliet, Shakespeare creates a violent world, in which two young people fall in love. It is not simply that their families disapprove; the Montagues and the Capulets are engaged in a blood feud. In this death-filled setting, the movement from love at first sight to the lovers\u2019 final union in death seems almost inevitable. And yet, this play set in an extraordinary world has become the quintessential story of young love. In part because of its exquisite language, it is easy to respond as if it were about all young lovers. The authoritative edition of Romeo and Juliet from The Folger Shakespeare Library, the trusted and widely used Shakespeare series for students and general readers, includes: -Freshly edited text based on the best early printed version of the play -Newly revised explanatory notes conveniently placed on pages facing the text of the play -Scene-by-scene plot summaries -A key to the play\u2019s famous lines and phrases -An introduction to reading Shakespeare\u2019s language -An essay by a leading Shakespeare scholar providing a modern perspective on the play -Fresh images from the Folger Shakespeare Library\u2019s vast holdings of rare books -An up-to-date annotated guide to further reading Essay by Gail Kern Paster The Folger Shakespeare Library in Washington, DC, is home to the world\u2019s largest collection of Shakespeare\u2019s printed works, and a magnet for Shakespeare scholars from around the globe. In addition to exhibitions open to the public throughout the year, the Folger offers a full calendar of performances and programs. For more information, visit Folger.edu.",
+      "industryIdentifiers": [
+        { "type": "ISBN_10", "identifier": "0743477111" },
+        { "type": "ISBN_13", "identifier": "9780743477116" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 0,
+      "printType": "BOOK",
+      "categories": ["Drama"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "preview-1.0.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=c6S1yQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=c6S1yQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=c6S1yQEACAAJ&dq=isbn:9780743477116&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=c6S1yQEACAAJ&dq=isbn:9780743477116&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Romeo_and_Juliet.html?hl=&id=c6S1yQEACAAJ"
+    }
+  },
+  {
+    "id": "ZiYU9NS4QkYC",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ZiYU9NS4QkYC",
+    "volumeInfo": {
+      "title": "The Chronicles of Narnia (adult)",
+      "authors": ["C. S. Lewis"],
+      "publisher": "Harper Collins",
+      "publishedDate": "2001-10-02",
+      "description": "Journeys to the end of the world, fantastic creatures, and epic battles between good and evil -- what more could any reader ask for in one book? The book that has it all is The Lion, the Witch and the Wardrobe, written in 1949 by Clive Staples Lewis. But Lewis did not stop there. Six more books followed, and together they became known as The Chronicles of Narnia. For the past fifty years, The Chronicles of Narnia have transcended the fantasy genre to become part of the canon of classic literature. Each of the seven books is a masterpiece, drawing the reader into a land where magic meets reality, and the result is a fictional world whose scope has fascinated generations. This edition presents all seven books -- unabridged -- in one impressive volume. The books are presented here according to Lewis' preferred order, each chapter graced with an illustration by the original artist, Pauline Baynes. Deceptively simple and direct, The Chronicles of Narnia continue to captivate fans with adventures, characters, and truths that speak to readers of all ages, even fifty years after they were first published.",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9780066238500" },
+        { "type": "ISBN_10", "identifier": "0066238501" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 770,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "averageRating": 5,
+      "ratingsCount": 3,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.2.0.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=ZiYU9NS4QkYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=ZiYU9NS4QkYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=ZiYU9NS4QkYC&printsec=frontcover&dq=isbn:9780066238500&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=ZiYU9NS4QkYC&dq=isbn:9780066238500&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Chronicles_of_Narnia_adult.html?hl=&id=ZiYU9NS4QkYC"
+    }
+  },
+  {
+    "id": "ExbTCwAAQBAJ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/ExbTCwAAQBAJ",
+    "volumeInfo": {
+      "title": "The Book Thief",
+      "authors": ["Markus Zusak"],
+      "publisher": "Knopf Books for Young Readers",
+      "publishedDate": "2007-09-11",
+      "description": "#1 NEW YORK TIMES BESTSELLER \u2022 ONE OF TIME MAGAZINE\u2019S 100 BEST YA BOOKS OF ALL TIME The extraordinary, beloved novel about the ability of books to feed the soul even in the darkest of times. When Death has a story to tell, you listen. It is 1939. Nazi Germany. The country is holding its breath. Death has never been busier, and will become busier still. Liesel Meminger is a foster girl living outside of Munich, who scratches out a meager existence for herself by stealing when she encounters something she can\u2019t resist\u2013books. With the help of her accordion-playing foster father, she learns to read and shares her stolen books with her neighbors during bombing raids as well as with the Jewish man hidden in her basement. In superbly crafted writing that burns with intensity, award-winning author Markus Zusak, author of I Am the Messenger, has given us one of the most enduring stories of our time. \u201cThe kind of book that can be life-changing.\u201d \u2014The New York Times \u201cDeserves a place on the same shelf with The Diary of a Young Girl by Anne Frank.\u201d \u2014USA Today DON\u2019T MISS BRIDGE OF CLAY, MARKUS ZUSAK\u2019S FIRST NOVEL SINCE THE BOOK THIEF.",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9780375842207" },
+        { "type": "ISBN_10", "identifier": "0375842209" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 609,
+      "printType": "BOOK",
+      "categories": ["Young Adult Fiction"],
+      "averageRating": 5,
+      "ratingsCount": 1,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.12.3.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=ExbTCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=ExbTCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=ExbTCwAAQBAJ&printsec=frontcover&dq=isbn:9780375842207&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=ExbTCwAAQBAJ&dq=isbn:9780375842207&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_Thief.html?hl=&id=ExbTCwAAQBAJ"
+    }
+  },
+  {
+    "id": "3C-4dsIGlEgC",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/3C-4dsIGlEgC",
+    "volumeInfo": {
+      "title": "Lord of the Flies",
+      "authors": ["William Golding"],
+      "publisher": "Penguin",
+      "publishedDate": "2003-12-16",
+      "description": "Golding\u2019s iconic 1954 novel, now with a new foreword by Lois Lowry, remains one of the greatest books ever written for young adults and an unforgettable classic for readers of any age. This edition includes a new Suggestions for Further Reading by Jennifer Buehler. At the dawn of the next world war, a plane crashes on an uncharted island, stranding a group of schoolboys. At first, with no adult supervision, their freedom is something to celebrate. This far from civilization they can do anything they want. Anything. But as order collapses, as strange howls echo in the night, as terror begins its reign, the hope of adventure seems as far removed from reality as the hope of being rescued.",
+      "industryIdentifiers": [
+        { "type": "ISBN_10", "identifier": "0399501487" },
+        { "type": "ISBN_13", "identifier": "9780399501487" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 212,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "averageRating": 3.5,
+      "ratingsCount": 43,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": true,
+      "contentVersion": "2.8.10.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=3C-4dsIGlEgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=3C-4dsIGlEgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=3C-4dsIGlEgC&printsec=frontcover&dq=isbn:9780399501487&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=3C-4dsIGlEgC&dq=isbn:9780399501487&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Lord_of_the_Flies.html?hl=&id=3C-4dsIGlEgC"
+    }
+  },
+  {
+    "id": "JHEkAQAAMAAJ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/JHEkAQAAMAAJ",
+    "volumeInfo": {
+      "title": "Harry Potter and the Deathly Hallows",
+      "authors": ["J. K. Rowling"],
+      "publishedDate": "2007",
+      "description": "\"The final adventure in J.K. Rowling's phenomenal, best-selling Harry Potter book series\"--Provided by publisher.",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "UOM:39076002651854" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 870,
+      "printType": "BOOK",
+      "categories": ["Juvenile Fiction"],
+      "averageRating": 5,
+      "ratingsCount": 3,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.3.3.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=JHEkAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=JHEkAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=JHEkAQAAMAAJ&dq=isbn:9780545010221&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=JHEkAQAAMAAJ&dq=isbn:9780545010221&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Deathly_Hallows.html?hl=&id=JHEkAQAAMAAJ"
+    }
+  },
+  {
+    "id": "dXLWAAAAMAAJ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/dXLWAAAAMAAJ",
+    "volumeInfo": {
+      "title": "The Giving Tree",
+      "authors": ["Shel Silverstein"],
+      "publisher": "HarperCollins Publishers",
+      "publishedDate": "1964-10-07",
+      "description": "'Once there was a tree...and she loved a little boy.' So begins a story of unforgettable perception, beautifully written and illustrated by the gifted and versatile Shel Silverstein. Every day the boy would come to the tree to eat her apples, swing from her branches, or slide down her trunk...and the tree was happy. But as the boy grew older he began to want more from the tree, and the tree gave and gave and gave. This is a tender story, touched with sadness, aglow with consolation. Shel Silverstein has created a moving parable for readers of all ages that offers an affecting interpretation of the gift of giving and a serene acceptance of another's capacity to love in return. Ages 10+",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "PSU:000050461677" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 64,
+      "printType": "BOOK",
+      "categories": ["Juvenile Fiction"],
+      "averageRating": 5,
+      "ratingsCount": 4,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.6.3.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=dXLWAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=dXLWAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=dXLWAAAAMAAJ&dq=isbn:9780060256655&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=dXLWAAAAMAAJ&dq=isbn:9780060256655&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Giving_Tree.html?hl=&id=dXLWAAAAMAAJ"
+    }
+  },
+  {
+    "id": "9M7Vo5Ac4UkC",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/9M7Vo5Ac4UkC",
+    "volumeInfo": {
+      "title": "The Kite Runner",
+      "authors": ["Khaled Hosseini"],
+      "publisher": "Penguin",
+      "publishedDate": "2003",
+      "description": "The unforgettable, heartbreaking story of the unlikely friendship between a wealthy boy and the son of his father's servant, The Kite Runner is a beautifully crafted novel set in a country that is in the process of being destroyed. It is about the power of reading, the price of betrayal, and the possibility of redemption, and it is also about the power of fathers over sons\u2014their love, their sacrifices, their lies. The first Afghan novel to be written in English, The Kite Runner tells a sweeping story of family, love, and friendship against a backdrop of history that has not been told in fiction before, bringing to mind the large canvases of the Russian writers of the nineteenth century. But just as it is old-fashioned in its narration, it is contemporary in its subject-the devastating history of Afghanistan over the last thirty years. As emotionally gripping as it is tender, The Kite Runner is an unusual and powerful debut.",
+      "industryIdentifiers": [
+        { "type": "ISBN_10", "identifier": "1594480001" },
+        { "type": "ISBN_13", "identifier": "9781594480003" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 404,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "averageRating": 4.5,
+      "ratingsCount": 119,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "3.3.4.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=9M7Vo5Ac4UkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=9M7Vo5Ac4UkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=9M7Vo5Ac4UkC&printsec=frontcover&dq=isbn:9781594480003&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=9M7Vo5Ac4UkC&dq=isbn:9781594480003&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Kite_Runner.html?hl=&id=9M7Vo5Ac4UkC"
+    }
+  },
+  {
+    "id": "6l8kAQAAMAAJ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/6l8kAQAAMAAJ",
+    "volumeInfo": {
+      "title": "The Giver",
+      "authors": ["Lois Lowry"],
+      "publisher": "Houghton Mifflin Harcourt",
+      "publishedDate": "1993",
+      "description": "Since winning the Newbery Medal in 1994, Lois Lowry's The Giver has become one of the most influential novels of our time.This stunning redesign of The Giver Quartet presents a fresh, cohesive package that ties The Giver, Gathering Blue, Messenger, and Son together. The story centers on twelve-year-old Jonas, who lives in a seemingly ideal world. Not until he is given his life assignment as the Receiver does he begin to understand the dark secrets behind this fragile community. The Giver is the first book in The Giver Quartet, which also includes Gathering Blue, Messenger, and Lois Lowry's latest return to Jona's world, Son, available September 2012.",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "UOM:39076002442783" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 200,
+      "printType": "BOOK",
+      "categories": ["YOUNG ADULT FICTION"],
+      "averageRating": 5,
+      "ratingsCount": 2,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.6.3.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=6l8kAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=6l8kAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=6l8kAQAAMAAJ&dq=isbn:9780395645667&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=6l8kAQAAMAAJ&dq=isbn:9780395645667&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Giver.html?hl=&id=6l8kAQAAMAAJ"
+    }
+  },
+  {
+    "id": "7NEul8arWTMC",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/7NEul8arWTMC",
+    "volumeInfo": {
+      "title": "Charlotte's Web",
+      "authors": ["E. B. White", "Kate DiCamillo"],
+      "publisher": "Harper Collins",
+      "publishedDate": "1974-05-15",
+      "description": "Sixty years ago, on October 15, 1952, E.B. White's Charlotte's Web was published. It's gone on to become one of the most beloved children's books of all time. To celebrate this milestone, the renowned Newbery Medalist Kate DiCamillo has written a heartfelt and poignant tribute to the book that is itself a beautiful translation of White's own view of the world\u2014of the joy he took in the change of seasons, in farm life, in the miracles of life and death, and, in short, the glory of everything. We are proud to include Kate DiCamillo's foreword in the 60th anniversary editions of this cherished classic. Charlotte's Web is the story of a little girl named Fern who loved a little pig named Wilbur\u2014and of Wilbur's dear friend Charlotte A. Cavatica, a beautiful large grey spider who lived with Wilbur in the barn. With the help of Templeton, the rat who never did anything for anybody unless there was something in it for him, and by a wonderfully clever plan of her own, Charlotte saved the life of Wilbur, who by this time had grown up to quite a pig. How all this comes about is Mr. White's story. It is a story of the magic of childhood on the farm. The thousands of children who loved Stuart Little, the heroic little city mouse, will be entranced with Charlotte the spider, Wilbur the pig, and Fern, the little girl who understood their language. The forty-seven black-and-white drawings by Garth Williams have all the wonderful detail and warmhearted appeal that children love in his work. Incomparably matched to E.B. White's marvelous story, they speak to each new generation, softly and irresistibly.",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9780064400558" },
+        { "type": "ISBN_10", "identifier": "0064400557" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 196,
+      "printType": "BOOK",
+      "categories": ["Juvenile Fiction"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.2.0.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=7NEul8arWTMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=7NEul8arWTMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=7NEul8arWTMC&printsec=frontcover&dq=isbn:9780064400559&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=7NEul8arWTMC&dq=isbn:9780064400559&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Charlotte_s_Web.html?hl=&id=7NEul8arWTMC"
+    }
+  },
+  {
+    "id": "VTolm6HG2EgC",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/VTolm6HG2EgC",
+    "volumeInfo": {
+      "title": "Green Eggs and Ham",
+      "authors": ["Dr. Seuss"],
+      "publisher": "Random House Books for Young Readers",
+      "publishedDate": "1960-08-12",
+      "description": "Join in the fun with Sam-I-Am in this iconic classic by Dr. Seuss that will have readers of all ages craving Green Eggs and Ham! This is a beloved classic from the bestselling author of Horton Hears a Who!, The Lorax, and Oh, the Places You\u2019ll Go! I do not like green eggs and ham. I do not like them, Sam-I-am. With unmistakable characters and signature rhymes, Dr. Seuss\u2019s beloved favorite has cemented its place as a children\u2019s classic. Kids will love the terrific tongue-twisters as the list of places to enjoy green eggs and ham gets longer and longer...and they might even learn a thing or two about trying new things! And don\u2019t miss the Netflix series adaptation! Beginner Books are fun, funny, and easy to read. Originally created by Dr. Seuss himself, these unjacketed hardcover early readers encourage children to read all on their own, using simple words and illustrations. Smaller than the classic large format Seuss picture books like How the Grinch Stole Christmas! and Happy Birthday to You!, these portable packages are perfect for practicing readers ages 3-7, and lucky parents too!",
+      "industryIdentifiers": [
+        { "type": "ISBN_10", "identifier": "0394800168" },
+        { "type": "ISBN_13", "identifier": "9780394800165" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 68,
+      "printType": "BOOK",
+      "categories": ["Juvenile Fiction"],
+      "averageRating": 4.5,
+      "ratingsCount": 57,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "2.6.3.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=VTolm6HG2EgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=VTolm6HG2EgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=VTolm6HG2EgC&dq=isbn:9780394800163&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=VTolm6HG2EgC&dq=isbn:9780394800163&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Green_Eggs_and_Ham.html?hl=&id=VTolm6HG2EgC"
+    }
+  },
+  {
+    "id": "TfdvDwAAQBAJ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/TfdvDwAAQBAJ",
+    "volumeInfo": {
+      "title": "Little Women",
+      "authors": ["Louisa May Alcott"],
+      "publisher": "Bantam Classics",
+      "publishedDate": "1983-04-01",
+      "description": "Nominated as one of America\u2019s best-loved novels by PBS\u2019s The Great American Read It is no surprise that Little Women, the adored classic of four devoted sisters, was loosely based on Louisa May Alcott\u2019s own life. In fact, Alcott drew from her own personality to create a heroine unlike any seen before: Jo, willful, headstrong, and undoubtedly the backbone of the March family. Follow the sisters from innocent adolescence to sage adulthood, with all the joy and sorrow of life in between, and fall in love with them and this endearing story. Praised by Madeleine Stern as \u201ca book on the American home, and hence universal in its appeal,\u201d Little Women has been an avidly read tale for generations.",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9780553212754" },
+        { "type": "ISBN_10", "identifier": "0553212753" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 562,
+      "printType": "BOOK",
+      "categories": ["Juvenile Fiction"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.1.0.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=TfdvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=TfdvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=TfdvDwAAQBAJ&printsec=frontcover&dq=isbn:9780553212754&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=TfdvDwAAQBAJ&dq=isbn:9780553212754&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Little_Women.html?hl=&id=TfdvDwAAQBAJ"
+    }
+  },
+  {
+    "id": "F0EwEAAAQBAJ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/F0EwEAAAQBAJ",
+    "volumeInfo": {
+      "title": "Of Mice and Men",
+      "authors": ["John Steinbeck"],
+      "publisher": "Penguin",
+      "publishedDate": "1993-09-01",
+      "description": "A controversial tale of friendship and tragedy during the Great Depression They are an unlikely pair: George is \"small and quick and dark of face\"; Lennie, a man of tremendous size, has the mind of a young child. Yet they have formed a \"family,\" clinging together in the face of loneliness and alienation. Laborers in California's dusty vegetable fields, they hustle work when they can, living a hand-to-mouth existence. For George and Lennie have a plan: to own an acre of land and a shack they can call their own. When they land jobs on a ranch in the Salinas Valley, the fulfillment of their dream seems to be within their grasp. But even George cannot guard Lennie from the provocations of a flirtatious woman, nor predict the consequences of Lennie's unswerving obedience to the things George taught him. \"A thriller, a gripping tale . . . that you will not set down until it is finished. Steinbeck has touched the quick.\" \u2014The New York Times",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9780140177398" },
+        { "type": "ISBN_10", "identifier": "0140177396" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 113,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.4.0.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=F0EwEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=F0EwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=F0EwEAAAQBAJ&printsec=frontcover&dq=isbn:9780140177398&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=F0EwEAAAQBAJ&dq=isbn:9780140177398&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Of_Mice_and_Men.html?hl=&id=F0EwEAAAQBAJ"
+    }
+  },
+  {
+    "id": "A4wa9ACZhOAC",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/A4wa9ACZhOAC",
+    "volumeInfo": {
+      "title": "Alice no pa\u00eds das maravilhas",
+      "authors": ["Lewis Carroll"],
+      "publisher": "FTD Editora",
+      "publishedDate": "1993",
+      "description": "A garota Alice v\u00ea um coelho branco entrar em uma toca. Vai atr\u00e1s dele e chega ao Pa\u00eds das Maravilhas. Ela muda de tamanho muitas vezes e conhece criaturas esquisitas, como a Lagarta, a Duquesa, o Gato de Cheshire, a Lebre de Mar\u00e7o, o Chapeleiro Maluco e o Rei e a Rainha de Copas. (FTD Educa\u00e7\u00e3o)",
+      "industryIdentifiers": [
+        { "type": "ISBN_10", "identifier": "8532275648" },
+        { "type": "ISBN_13", "identifier": "9788532275646" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 116,
+      "printType": "BOOK",
+      "categories": ["Children's stories, English"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "2.4.4.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=A4wa9ACZhOAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=A4wa9ACZhOAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=A4wa9ACZhOAC&printsec=frontcover&dq=isbn:9780141439761&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=A4wa9ACZhOAC&dq=isbn:9780141439761&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Alice_no_pa%C3%ADs_das_maravilhas.html?hl=&id=A4wa9ACZhOAC"
+    }
+  },
+  {
+    "id": "hlb_sM1AN0gC",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/hlb_sM1AN0gC",
+    "volumeInfo": {
+      "title": "The Hunger Games",
+      "authors": ["Suzanne Collins"],
+      "publisher": "Scholastic Inc.",
+      "publishedDate": "2008",
+      "description": "By winning the Hunger Games, Katniss and Peeta have secured a life of safety and plenty for themselves and their families, but because they won by defying the rules, they unwittingly become the faces of an impending rebellion. |",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9780439023528" },
+        { "type": "ISBN_10", "identifier": "0439023521" }
+      ],
+      "readingModes": { "text": false, "image": true },
+      "pageCount": 386,
+      "printType": "BOOK",
+      "categories": ["Juvenile Fiction"],
+      "averageRating": 4.5,
+      "ratingsCount": 328,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.2.2.0.preview.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=hlb_sM1AN0gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=hlb_sM1AN0gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=hlb_sM1AN0gC&printsec=frontcover&dq=isbn:9780439023528&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=hlb_sM1AN0gC&dq=isbn:9780439023528&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/The_Hunger_Games.html?hl=&id=hlb_sM1AN0gC"
+    }
+  },
+  {
+    "id": "vQMyEAAAQBAJ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/vQMyEAAAQBAJ",
+    "volumeInfo": {
+      "title": "Wuthering Heights",
+      "authors": ["Emily Bronte"],
+      "publisher": "Penguin",
+      "publishedDate": "2002-12-31",
+      "description": "One of English literature's classic masterpieces\u2014a gripping novel of love, propriety, and tragedy. Nominated as one of America\u2019s best-loved novels by PBS\u2019s The Great American Read Emily Bront\u00eb's only novel endures as a work of tremendous and far-reaching influence. The Penguin Classics edition is the definitive version of the text, edited with an introduction by Pauline Nestor. Lockwood, the new tenant of Thrushcross Grange, situated on the bleak Yorkshire moors, is forced to seek shelter one night at Wuthering Heights, the home of his landlord. There he discovers the history of the tempestuous events that took place years before. What unfolds is the tale of the intense love between the gypsy foundling Heathcliff and Catherine Earnshaw. Catherine, forced to choose between passionate, tortured Heathcliff and gentle, well-bred Edgar Linton, surrendered to the expectations of her class. As Heathcliff's bitterness and vengeance at his betrayal is visited upon the next generation, their innocent heirs must struggle to escape the legacy of the past. In this edition, a new preface by Lucasta Miller, author of The Bront\u00eb Myth, looks at the ways in which the novel has been interpreted, from Charlotte Bront\u00eb onwards. This complements Pauline Nestor's introduction, which discusses changing critical receptions of the novel, as well as Emily Bront\u00eb's influences and background.",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9780141439556" },
+        { "type": "ISBN_10", "identifier": "0141439556" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 417,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.2.0.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=vQMyEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=vQMyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=vQMyEAAAQBAJ&printsec=frontcover&dq=isbn:9780141439556&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=vQMyEAAAQBAJ&dq=isbn:9780141439556&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Wuthering_Heights.html?hl=&id=vQMyEAAAQBAJ"
+    }
+  },
+  {
+    "id": "YOlXAAAAYAAJ",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/YOlXAAAAYAAJ",
+    "volumeInfo": {
+      "title": "Diary of a Wimpy Kid # 2 - Rodrick Rules",
+      "authors": ["Jeff Kinney"],
+      "publisher": "Amulet Books",
+      "publishedDate": "2008-02",
+      "description": "Collects the diaries of middle-schooler Greg Heffley as he faces the challenges of school, deals with his annoying older brother, misses the comforts of modern life when his town voluntarily goes electronics-free, and faces other challenges.",
+      "industryIdentifiers": [
+        { "type": "OTHER", "identifier": "PSU:000067178551" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 232,
+      "printType": "BOOK",
+      "categories": ["Juvenile Fiction"],
+      "averageRating": 4,
+      "ratingsCount": 25,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.4.2.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=YOlXAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=YOlXAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=YOlXAAAAYAAJ&dq=isbn:9780810994737&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=YOlXAAAAYAAJ&dq=isbn:9780810994737&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Diary_of_a_Wimpy_Kid_2_Rodrick_Rules.html?hl=&id=YOlXAAAAYAAJ"
+    }
+  },
+  {
+    "id": "jZMpaRdaUzsC",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/jZMpaRdaUzsC",
+    "volumeInfo": {
+      "title": "Gone with the Wind",
+      "authors": ["Margaret Mitchell"],
+      "publisher": "Simon and Schuster",
+      "publishedDate": "2008-05-20",
+      "description": "The story of the tempestuous romance between Rhett Butler and Scarlet O'Hara is set amid the drama of the Civil War.",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9781416548942" },
+        { "type": "ISBN_10", "identifier": "1416548947" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 1476,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "averageRating": 4.5,
+      "ratingsCount": 9,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.1.0.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=jZMpaRdaUzsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=jZMpaRdaUzsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=jZMpaRdaUzsC&printsec=frontcover&dq=isbn:9781416548942&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=jZMpaRdaUzsC&dq=isbn:9781416548942&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Gone_with_the_Wind.html?hl=&id=jZMpaRdaUzsC"
+    }
+  },
+  {
+    "id": "y3CyRurE7P4C",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/y3CyRurE7P4C",
+    "volumeInfo": {
+      "title": "Fahrenheit 451",
+      "subtitle": "A Novel",
+      "authors": ["Ray Bradbury"],
+      "publisher": "Simon and Schuster",
+      "publishedDate": "2012-01-10",
+      "description": "A totalitarian regime has ordered all books to be destroyed, but one of the book burners, Guy Montag, suddenly realizes their merit.",
+      "industryIdentifiers": [
+        { "type": "ISBN_13", "identifier": "9781451673319" },
+        { "type": "ISBN_10", "identifier": "1451673310" }
+      ],
+      "readingModes": { "text": false, "image": false },
+      "pageCount": 272,
+      "printType": "BOOK",
+      "categories": ["Fiction"],
+      "averageRating": 3.5,
+      "ratingsCount": 8,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.14.4.0.preview.0",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=y3CyRurE7P4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=y3CyRurE7P4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.com/books?id=y3CyRurE7P4C&printsec=frontcover&dq=isbn:9781451673319&hl=&cd=1&source=gbs_api",
+      "infoLink": "http://books.google.com/books?id=y3CyRurE7P4C&dq=isbn:9781451673319&hl=&source=gbs_api",
+      "canonicalVolumeLink": "https://books.google.com/books/about/Fahrenheit_451.html?hl=&id=y3CyRurE7P4C"
+    }
+  }
+]
