@@ -1,9 +1,11 @@
-
-export default function BookDetails() {
+interface BookDetailsProps{
+  bookName: string
+}
+export default function BookDetails({ bookName }: BookDetailsProps) {
     return(
       <main>
-        Homepage
+        
       </main>
     )
-  }
+}
   

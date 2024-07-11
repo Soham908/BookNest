@@ -7,7 +7,7 @@ export default function SearchBar() {
     return (
     <input
       type="text"
-      placeholder="Search books..."
+      placeholder="🔍 Search books..."
       value={searchQuery}
       onChange={(e) => setSearchQuery(e.target.value)}
       className="p-2 rounded bg-gray-800 text-white focus:outline-none focus:ring-2 focus:ring-gray-500 w-4/12"

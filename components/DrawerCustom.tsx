@@ -14,15 +14,11 @@ import {
   Typography,
 } from "@mui/material";
 import HomeIcon from "@mui/icons-material/Home";
-import LoginIcon from "@mui/icons-material/Login"
 import MenuIcon from "@mui/icons-material/Menu"
 import AccountCircleIcon from "@mui/icons-material/AccountCircle"
-import SavingsIcon from '@mui/icons-material/Savings';
-import ArticleIcon from '@mui/icons-material/Article';
 import { useRouter } from "next/navigation";
-import { Logout } from "@mui/icons-material";
-import { Book, LogInIcon } from "lucide-react";
-// import { useUserDataStore, useUserGoalStore } from "../store/store";
+import { Timeline } from "@mui/icons-material";
+import { Book, LogInIcon, Quote } from "lucide-react";
 
 const DrawerCustom = () => {
 
@@ -30,10 +26,7 @@ const DrawerCustom = () => {
   const [openDrawer, setOpenDrawer] = useState(false);
   const theme = useTheme();
   const isSmallScreen = useMediaQuery(theme.breakpoints.down('md'));
-  // const username = useUserDataStore(state => state.userData.username)
   const username = "Soham"
-  // const setStoreUserData = useUserDataStore(state => state.setStoreUserData)
-  // const setStoreGoalData = useUserGoalStore(state => state.setStoreGoalData)
 
   const toggleDrawer = () => {
     setOpenDrawer(!openDrawer);
@@ -75,7 +68,8 @@ const DrawerCustom = () => {
         [
             { text: "HomePage", icon: <HomeIcon />, onClick: () => {router.push("/"); toggleDrawer(); } },
             { text: "Books Page", icon: <Book />, onClick: () => {router.push("/finance-goals"); toggleDrawer(); }},
-            { text: "Articles", icon: <ArticleIcon />, onClick: () => {router.push("/articles"); toggleDrawer(); }},
+            { text: "Quotes", icon: <Quote />, onClick: () => {router.push("/articles"); toggleDrawer(); }},
+            { text: "Activity", icon: <Timeline />, onClick: () => {router.push("/login"); toggleDrawer(); }},
             { text: "Login", icon: <LogInIcon />, onClick: () => {router.push("/login"); toggleDrawer(); }},
             // { text: "Logout", icon: <Logout />, onClick: () => {
             //   localStorage.removeItem('userCredentialGoal')
