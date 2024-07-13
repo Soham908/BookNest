@@ -5,6 +5,19 @@ interface UserData {
   username: string;
   setUserName: (newName: string) => void;
 }
+interface BookProperties{
+  bookName: { type: String, required: true },
+  author: { type: String, required: true },
+  ISBN: { type: Number, required: true },
+  bankAccount: { type: String },
+  bookPrice: { type: Number },
+  quantity: { type: Number },
+}
+interface BookStuff{
+  boughtBook: BookProperties[],
+  soldBook: BookProperties[],
+  likedBooks: BookProperties[]
+}
 
 export const useUserDataStore = create<UserData>()(
   persist(
@@ -17,3 +30,15 @@ export const useUserDataStore = create<UserData>()(
     }
   )
 );
+export const useBoughtBook = create<BookStuff>()(
+  persist(
+  (set) => ({
+    boughtBook: [],
+    soldBook: [],
+    likedBooks: []
+  }),
+  {
+    name: 'bookNestUserBookData'
+  }
+)
+)
